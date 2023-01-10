@@ -1,7 +1,5 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you..</h1>
 
-<!--
-**iwancai/iwancai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>Welcome to my page! </br> I'm Ridwan, Frontend developer from indonesia</p>
 
 ## ⚡ Technologies
@@ -33,8 +31,8 @@
 </br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iwancai&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<!--
 
+<!--
 
 **iwancai/iwancai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
