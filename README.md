@@ -26,7 +26,15 @@
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwancai&show_icons=true&theme=vue-dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iwancai&theme=tokyonight) 
+
+</br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iwancai&theme=tokyonight) 
+
+</br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iwancai&theme=tokyonight) 
 
 </br>
 
